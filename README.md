@@ -12,7 +12,9 @@
 
 ###
 
-<p align="left">🚀 AWS DevOps Engineer | Cloud Automation Enthusiast<br><br>🌱 Currently working as AWS & DevOps Engineer at AGA IT Solutions<br>🔧 Experienced in Infrastructure as Code (Terraform, CloudFormation) and CI/CD automation (Jenkins, GitHub, Maven)<br>🐳 Skilled in containerization with Docker, ECS, and EKS<br>📊 Passionate about building scalable, secure, and cost-optimized AWS environments<br>💬 Ask me about Terraform, Jenkins, Docker, AWS services, and DevOps automation<br>⚡ Fun fact: I love optimizing cloud costs and automating repetitive tasks — efficiency is my superpower!<br>🛠️ Languages & Tools<br>Cloud Platforms: AWS (EC2, S3, RDS, VPC, IAM, Lambda, ECS, EKS, Route 53, CloudWatch)<br>IaC & Automation: Terraform, Ansible, CloudFormation<br>CI/CD Tools: Jenkins, Git, GitHub, SonarQube, Maven<br>Containers: Docker<br>Monitoring & Logging: CloudWatch, Prometheus, Grafana<br>Security & Compliance: IAM, TLS/SSL, KMS, Secrets Manager, PCI/SOX practices<br>Scripting: Shell, PowerShell, YAML</p>
+<p align="left">🚀 AWS DevOps Engineer | Cloud Automation Enthusiast<br><br>🌱 Currently working as AWS & DevOps Engineer at AGA IT Solutions<br>🔧 Experienced in Infrastructure as Code (Terraform, CloudFormation) and CI/CD automation (Jenkins, GitHub, Maven)<br>🐳 Skilled in containerization with Docker, ECS, and EKS<br>📊 Passionate about building scalable, secure, and cost-optimized AWS environments<br>💬 Ask me about Terraform, Jenkins, Docker, AWS services, and DevOps automation<br>⚡ Fun fact: I love optimizing cloud costs and automating repetitive tasks — efficiency is my superpower!
+  
+<br>🛠️ Languages & Tools<br>Cloud Platforms: AWS (EC2, S3, RDS, VPC, IAM, Lambda, ECS, EKS, Route 53, CloudWatch)<br>IaC & Automation: Terraform, Ansible, CloudFormation<br>CI/CD Tools: Jenkins, Git, GitHub, SonarQube, Maven<br>Containers: Docker<br>Monitoring & Logging: CloudWatch, Prometheus, Grafana<br>Security & Compliance: IAM, TLS/SSL, KMS, Secrets Manager, PCI/SOX practices<br>Scripting: Shell, PowerShell, YAML</p>
 
 ###
 
